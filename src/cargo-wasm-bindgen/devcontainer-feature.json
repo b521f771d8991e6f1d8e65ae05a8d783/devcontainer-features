@@ -1,6 +1,6 @@
 {
-    "name": "wasm-bindgen",
-    "id": "wasm-bindgen",
+    "name": "cargo-wasm-bindgen",
+    "id": "cargo-wasm-bindgen",
     "version": "1.0.3",
     "description": "A feature to remind you of your favorite color",
     "options": {
