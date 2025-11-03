@@ -1,0 +1,13 @@
+{
+    "name": "wasm-bindgen",
+    "id": "wasm-bindgen",
+    "version": "1.0.3",
+    "description": "A feature to remind you of your favorite color",
+    "options": {
+        "version": {
+            "type": "string",
+            "default": "0.2.100",
+            "description": "wasm-bindgen-version"
+        }
+    }
+}
